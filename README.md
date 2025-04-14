@@ -1,2 +1,4 @@
-# emptyMavenProject
-Template Java projects with most important libs
+- Search for 'TODO' in whole project
+    - Adapt them
+- Remove all unused libraries
+- Remove HelloWorld test classes
