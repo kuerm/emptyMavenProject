@@ -10,6 +10,6 @@ public class HelloWorldTest {
         var actual = testee.act();
 
         assertThat(actual).isEqualTo("Hello World!");
-
+        assertThat(actual).isEqualTo("Hello World!");
     }
 }
